@@ -1,6 +1,6 @@
 {
-    "version":  "0.12.4",
-    "download_url":  "https://github.com/rahmatullohadzani/MiTransfer-Releases/releases/download/v0.12.4/MiTransfer-v0.12.4-win-x64.zip",
-    "sha256":  "64272b3a5a4defdc7b00d163c2520bbc4eb3e5b475b0bdd3efd43864f7881825",
-    "notes":  "MiTransfer v0.12.4\n- Tombol konsultasi WhatsApp Admin.\n- Salin pesan chat dengan satu klik.\n- Perbaikan dan pemeliharaan mekanisme pembaruan otomatis.\n- Mempertahankan lisensi, profil, riwayat chat, dan koneksi Internet otomatis."
+    "version":  "0.12.6",
+    "download_url":  "https://github.com/rahmatullohadzani/MiTransfer-Releases/releases/download/v0.12.6/MiTransfer-v0.12.6-win-x64.zip",
+    "sha256":  "ed1949201e2b9b6d31e5c43303bc4c283fceb7b668c3d81713f6981188644aa1",
+    "notes":  "Menambahkan pilihan tampilan terang dan gelap yang tersimpan otomatis.\nMempertahankan fitur konsultasi WhatsApp Admin dan salin pesan chat.\nMempertahankan perbaikan tombol Buka Lokasi dan mekanisme pembaruan otomatis.\nData pengguna, profil, riwayat chat, dan lisensi lokal tetap dipertahankan saat pembaruan."
 }
