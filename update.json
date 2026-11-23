@@ -1,7 +1,6 @@
-
 {
-  "version": "0.12.2",
-  "download_url": "https://github.com/rahmatullohadzani/MiTransfer-Releases/releases/download/v0.12.2/MiTransfer-v0.12.2-win-x64.zip",
-  "sha256": "BB4B07E9AF08006FD98EAA457DC03AA0D37C3FE0949544877AAEC7EA94309BA2",
-  "notes": "Mi Transfer v0.12.2 - Auto Internet Update"
+    "version":  "0.12.5",
+    "download_url":  "https://github.com/rahmatullohadzani/MiTransfer-Releases/releases/download/v0.12.5/MiTransfer-v0.12.5-win-x64.zip",
+    "sha256":  "19b558b28c88d4529b2fd1e5559a1862bc055b5393faca4d4e0bdd63086632e2",
+    "notes":  "Mode tampilan terang dan gelap dengan pilihan yang tersimpan.\nTombol kembali ke pesan terbaru pada ruang chat.\nPerbaikan tombol Buka Lokasi untuk membuka folder File MiTransfer.\nData pengguna dan lisensi lokal tetap dipertahankan saat pembaruan."
 }
