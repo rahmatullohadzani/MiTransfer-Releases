@@ -1,6 +1,6 @@
 {
-    "version":  "0.12.5",
-    "download_url":  "https://github.com/rahmatullohadzani/MiTransfer-Releases/releases/download/v0.12.5/MiTransfer-v0.12.5-win-x64.zip",
-    "sha256":  "19b558b28c88d4529b2fd1e5559a1862bc055b5393faca4d4e0bdd63086632e2",
-    "notes":  "Mode tampilan terang dan gelap dengan pilihan yang tersimpan.\nTombol kembali ke pesan terbaru pada ruang chat.\nPerbaikan tombol Buka Lokasi untuk membuka folder File MiTransfer.\nData pengguna dan lisensi lokal tetap dipertahankan saat pembaruan."
+    "version":  "0.12.6",
+    "download_url":  "https://github.com/rahmatullohadzani/MiTransfer-Releases/releases/download/v0.12.6/MiTransfer-v0.12.6-win-x64.zip",
+    "sha256":  "ed1949201e2b9b6d31e5c43303bc4c283fceb7b668c3d81713f6981188644aa1",
+    "notes":  "Menambahkan pilihan tampilan terang dan gelap yang tersimpan otomatis.\nMempertahankan fitur konsultasi WhatsApp Admin dan salin pesan chat.\nMempertahankan perbaikan tombol Buka Lokasi dan mekanisme pembaruan otomatis.\nData pengguna, profil, riwayat chat, dan lisensi lokal tetap dipertahankan saat pembaruan."
 }
