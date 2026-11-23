@@ -1,6 +1,6 @@
 {
-    "version":  "0.12.6",
-    "download_url":  "https://github.com/rahmatullohadzani/MiTransfer-Releases/releases/download/v0.12.6/MiTransfer-v0.12.6-win-x64.zip",
-    "sha256":  "ed1949201e2b9b6d31e5c43303bc4c283fceb7b668c3d81713f6981188644aa1",
-    "notes":  "Menambahkan pilihan tampilan terang dan gelap yang tersimpan otomatis.\nMempertahankan fitur konsultasi WhatsApp Admin dan salin pesan chat.\nMempertahankan perbaikan tombol Buka Lokasi dan mekanisme pembaruan otomatis.\nData pengguna, profil, riwayat chat, dan lisensi lokal tetap dipertahankan saat pembaruan."
+    "version":  "0.12.7",
+    "download_url":  "https://github.com/rahmatullohadzani/MiTransfer-Releases/releases/download/v0.12.7/MiTransfer-v0.12.7-win-x64.zip",
+    "sha256":  "b7222251b70d95ab9d7ca75cb055b047d451194046b07f06ce1c7ba4476e7578",
+    "notes":  "MiTransfer v0.12.7\n\n- Perbaikan sinkronisasi PIN dua arah\n- Penyempurnaan tampilan updater dan catatan rilis\n- Penambahan progress bar dan persentase unduhan\n- Penyimpanan preferensi Dark Mode dan Light Mode\n- Penyempurnaan pesan kesalahan updater\n- Verifikasi integritas SHA-256 sebelum pemasangan\n- Penyesuaian harga lisensi menjadi Rp15.000 untuk 30 hari, Rp25.000 untuk 60 hari, dan Rp35.000 untuk Lifetime."
 }
